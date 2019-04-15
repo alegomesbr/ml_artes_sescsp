@@ -2,7 +2,8 @@
 
 Materiais do Curso de Introdução ao Machine Learning para Artes
 
-# Materiais da Aula 01:
+
+## Materiais da Aula 01:
 
 Slide sobre o Curso: https://show.zohopublic.com/publish/dqvdl82dacff97624440eaa324fcb83cc591e
 
