@@ -15,3 +15,4 @@ Slide sobre Introdução à Classificação: https://show.zohopublic.com/publish
 
 Tutorial Orange Data Mining - Classificação: https://show.zohopublic.com/publish/dwygt1843ea04f86049129efe06f3bc0207a0
 
+Os arquivos do Tutorial estão na pasta datasets.
