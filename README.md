@@ -16,3 +16,7 @@ Slide sobre Introdução à Classificação: https://show.zohopublic.com/publish
 Tutorial Orange Data Mining - Classificação: https://show.zohopublic.com/publish/dwygt1843ea04f86049129efe06f3bc0207a0
 
 Os arquivos do Tutorial estão na pasta datasets.
+
+## Materiais da Aula 03:
+
+Tutorial Orange Data Mining - Classificação de Imagens: https://show.zohopublic.com/publish/dxtba603c9c43b0854acfa4ad9b9c7d6b78b3
