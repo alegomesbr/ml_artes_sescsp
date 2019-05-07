@@ -20,3 +20,13 @@ Os arquivos do Tutorial estão na pasta datasets.
 ## Materiais da Aula 03:
 
 Tutorial Orange Data Mining - Classificação de Imagens: https://show.zohopublic.com/publish/dxtba603c9c43b0854acfa4ad9b9c7d6b78b3
+
+## Materiais da Aula 04:
+
+Tutorial Orange Data Mining - Regressão: https://show.zohopublic.com/publish/earq538128c2ca807402a8b344f356c8aa75f
+
+Links comentados em aula:
+
+Competições Kaggle: https://www.kaggle.com/
+Tutoriais Datacamp e Dataquest: https://www.datacamp.com/ e https://www.dataquest.io/
+Datasets: https://archive.ics.uci.edu/ml/datasets.php
