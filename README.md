@@ -28,5 +28,7 @@ Tutorial Orange Data Mining - Regressão: https://show.zohopublic.com/publish/ea
 Links comentados em aula:
 
 Competições Kaggle: https://www.kaggle.com/
+
 Tutoriais Datacamp e Dataquest: https://www.datacamp.com/ e https://www.dataquest.io/
+
 Datasets: https://archive.ics.uci.edu/ml/datasets.php
