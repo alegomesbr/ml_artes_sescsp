@@ -32,3 +32,9 @@ Competições Kaggle: https://www.kaggle.com/
 Tutoriais Datacamp e Dataquest: https://www.datacamp.com/ e https://www.dataquest.io/
 
 Datasets: https://archive.ics.uci.edu/ml/datasets.php
+
+## Materiais da Aula 05:
+
+Tutorial de Processing - Parte 1: https://show.zohopublic.com/publish/eflzw94274c76a9464722bb96dec30ea565a9
+
+Processing.org: https://processing.org/
