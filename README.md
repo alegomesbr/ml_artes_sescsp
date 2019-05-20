@@ -38,3 +38,11 @@ Datasets: https://archive.ics.uci.edu/ml/datasets.php
 Tutorial de Processing - Parte 1: https://show.zohopublic.com/publish/eflzw94274c76a9464722bb96dec30ea565a9
 
 Processing.org: https://processing.org/
+
+## Materiais da Aula 06:
+
+Tutorial de Processing - Parte 2: (Em breve)
+
+Atividade extra: Modificar o código disponível em "codes/ex01.pde". Algumas sugestões de alterações:
+- Fazer a bolinha se mover na vertical (obedecendo o comportamento de retorno quando atingir a borda da janela)
+- Fazer a bolinha sofrer interferência na trajetória de acordo com uma entrada do teclado (setas para cima, baixo, esquerda, direita)
