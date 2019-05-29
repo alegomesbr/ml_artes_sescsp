@@ -46,3 +46,12 @@ Tutorial de Processing - Parte 2: (Em breve)
 Atividade extra: Modificar o código disponível em "codes/ex01.pde". Algumas sugestões de alterações:
 - Fazer a bolinha se mover na vertical (obedecendo o comportamento de retorno quando atingir a borda da janela)
 - Fazer a bolinha sofrer interferência na trajetória de acordo com uma entrada do teclado (setas para cima, baixo, esquerda, direita)
+
+## Materiais da Aula 07:
+
+Tutorial de Processing - Parte 3: (Em breve)
+
+Atividade extra: Criar uma nuvem de palavras a partir de um texto copiado da Wikipédia.
+
+O código está disponível em: codes/ex02.pde
+
